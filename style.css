@@ -185,4 +185,5 @@ h3 {
 
 .trending-title {
     grid-area: 3 / 2 / 4 / 3;
+    align-self: flex-end;
 }
